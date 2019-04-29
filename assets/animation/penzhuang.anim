@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "penzhuang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.98,
+            "y": 0.98
+          }
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.95,
+            "y": 0.95
+          }
+        },
+        {
+          "frame": 0.1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.98,
+            "y": 0.98
+          }
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}
